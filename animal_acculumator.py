@@ -1,10 +1,4 @@
 """
-CP1401 2023-1 Assignment 2
-Animal Accumulator
-Student Name: Joshua Bradley
-Date started: April 17, 2023
-
-
 Pseudocode:
 
 function main()
